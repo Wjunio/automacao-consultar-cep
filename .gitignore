@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+cucumberJava/.classpath
+cucumberJava/.project
+cucumberJava/.settings/org.eclipse.jdt.core.prefs
+cucumberJava/.settings/org.eclipse.m2e.core.prefs
+cucumberJava/target/classes/META-INF/MANIFEST.MF
+cucumberJava/target/classes/META-INF/maven/cucumberCep/cucumberJava/pom.xml
+cucumberJava/target/classes/META-INF/maven/cucumberCep/cucumberJava/pom.properties
+cucumberJava/target/test-classes/Features/consultar-cep.feature
