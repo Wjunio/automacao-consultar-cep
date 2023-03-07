@@ -1,0 +1,14 @@
+{
+	"data": [
+		{
+			"massa": "ct001_criar_qr_code_dinamico_imediato_com_cpfcnpj_nao_informado",
+			"method": "POST",
+			"endpoint": "/consulta-endereco",
+			"body": {
+				"cep": "74483027"
+			},
+			"params": {},
+			"header": {}
+		}
+	]
+}
